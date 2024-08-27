@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Which of the following is NOT a factor of 24?",
+        "options": [
+            "2",
+            "4",
+            "7",
+            "12"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q2",
+        "question": "How many factors does the number 36 have?",
+        "options": [
+            "4",
+            "6",
+            "9",
+            "12"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3",
+        "question": "What is the sum of all factors of 18?",
+        "options": [
+            "20",
+            "24",
+            "36",
+            "39"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Which of the following numbers is a multiple of 6 but not of 12?",
+        "options": [
+            "18",
+            "24",
+            "48",
+            "36"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Which of the following numbers is a multiple of both 3 and 4?",
+        "options": [
+            "10",
+            "12",
+            "15",
+            "19"
+        ],
+        "correct": 1
+    }
+]
